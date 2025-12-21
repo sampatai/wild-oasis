@@ -54,6 +54,11 @@ npm i @tanstack/react-query@4
 
 # date function
 npm i date-fns
+
+#toaster for notifications
+npm i react-hot-toast
+#react hook form
+  npm i react-hook-form@7
 ````
 
 # Start the development server
